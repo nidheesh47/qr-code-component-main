@@ -27,7 +27,7 @@ body {
     color: hsl(220, 15%, 55%);
 }
 
-@media screen and (min-width:320px){
+@media screen and (max-width:320px){
     body{
         max-width:  320px;
     }
